@@ -1,2 +1,2 @@
-# PythonClassRepo
+# IntroToProg-Python
 For Python Class
